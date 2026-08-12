@@ -47,7 +47,7 @@
 ## Используемый стек и инструменты
 
 * **Linux-среда:** Kali Linux / Ubuntu
-* **Сеть:** VPN / конфигурация OpenVPN
+* **Сеть:** Mullvad VPN
 * **Браузер:** Firefox (настроенный с OSINT-расширениями)
 * **Блокчейн-инструменты:**
   * [Tonscan](https://tonscan.org/)
